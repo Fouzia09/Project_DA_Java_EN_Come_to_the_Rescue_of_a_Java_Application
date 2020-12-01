@@ -18,4 +18,5 @@ https://github.com/OpenClassrooms-Student-Center/Project_DA_Java_EN_Come_to_the_
 
 Fabriqué avec :
 
+IDE : Eclipse
 Java 8
