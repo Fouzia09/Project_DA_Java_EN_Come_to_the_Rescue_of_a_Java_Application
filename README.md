@@ -2,9 +2,7 @@ Titre du projet
 
 Débugger une application JAVA
 
-Contexte
-
-Ce programme permet de lire un fichier composé de plusieurs symptômes (symptoms.txt) et d'en écrire un nouveau (result.out), énumérant par ordre alphabétique les symptômes ainsi que leur nombre d'occurrences.
+Ce programme permet de lire un fichier composé de plusieurs symptômes (symptoms.txt) et d'en écrire un nouveau (result.out), en triant par ordre alphabétique les symptômes ainsi que leur nombre d'occurrences.
 
 Objectifs et Réalisation
 
